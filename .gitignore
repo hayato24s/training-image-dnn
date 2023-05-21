@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+*.pkl
+*.npz
+storage
+parameters
