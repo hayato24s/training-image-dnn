@@ -1,1 +1,1 @@
-git push -u origin main
+training-image-dnn
